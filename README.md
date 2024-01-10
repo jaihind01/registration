@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/registration-form.git
+git clone https://github.com/jaihind01/registration.git
 Navigate to the project directory:
 
 bash
